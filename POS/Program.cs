@@ -11,7 +11,7 @@ namespace POS
             // To customize application configuration such as set high DPI settings or default font,
             
             ApplicationConfiguration.Initialize();
-            Application.Run(new Billings());
+            Application.Run(new Login());
         }
     }
 }
